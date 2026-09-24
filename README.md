@@ -8,7 +8,7 @@
 
 ### ▸ Tools and Platforms:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,discord" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,discord,VScode-Dark" />
 </a>
 
 
